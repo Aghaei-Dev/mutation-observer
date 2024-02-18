@@ -1,0 +1,13 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ol {
+  list-style-type: none;
+  outline: none;
+  padding: 2rem;
+  text-align: center;
+}
